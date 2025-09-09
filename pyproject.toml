@@ -10,7 +10,7 @@ package-mode = true
 python = ">=3.9,<4"
 networkx = "2.8.8"
 scipy = "1.13"
-axo="0.0.3a0"
+axo = "0.0.3a1"
 
 [tool.poetry.group.dev.dependencies]
 pytest = "^8.1.1"
